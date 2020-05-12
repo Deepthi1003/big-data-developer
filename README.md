@@ -16,5 +16,5 @@
 
 
 ## Links:
-[LinkedIn profile](https://www.linkedin.com/in/deepthi-chokka-042732159/)- Link to my linkedin profile.
-[GitHub profile](https://github.com/Deepthi1003)- Link to my github profile.
+- [LinkedIn profile](https://www.linkedin.com/in/deepthi-chokka-042732159/)- Link to my linkedin profile.
+- [GitHub profile](https://github.com/Deepthi1003)- Link to my github profile.
