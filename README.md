@@ -12,7 +12,9 @@
 
 
 ## Plans:
-- I'm interested in learning a lot about back-end development and python programming.
+I'm interested in learning a lot about 
+- back-end development 
+- python programming.
 
 
 ## Links:
