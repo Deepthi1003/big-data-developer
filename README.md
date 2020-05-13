@@ -2,6 +2,8 @@
 
 ## About-me
 
+![](https://raw.githubusercontent.com/Deepthi1003/big-data-developer/master/my%20Image.jpeg)
+
 ## Current:
 - I am currently pursuing my Masters in the stream of Applied Computer Science from Northwest Missouri State University.
 
